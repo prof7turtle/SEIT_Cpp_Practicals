@@ -119,3 +119,61 @@ int main() {
     return 0;
 }
 
+
+//Output
+/*
+Enter the size of the queue: 3
+
+Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the value to enqueue: 2
+Enqueued: 2
+
+Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the value to enqueue: 3
+Enqueued: 3
+
+Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 2 3 
+
+Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 2
+Dequeued: 2
+
+Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 3 
+
+Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 4
+Exiting...
+
+
+=== Code Execution Successful ===
+*/
