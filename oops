@@ -1,0 +1,15 @@
+Assignment based on OOP Concepts 
+1. Design a class employee, accept one record and display the same. ( Recall concepts entity , 
+attributes , class , object, data hiding , Abstraction, encapsulation , data members , member 
+methods , constructor ) 
+2. Overload operator + to add corresponding elements of two lists and display the third list.( 
+overload >> to accept list using friend function and << to display list. Use this pointer to return 
+an object. 
+3. Write a class to represent a SLL of integers use new and delete ( in destructor to free the list. 
+4. Design classes A, B, C, D having one integer value each as member , class A is the base class , 
+derive class B and class C and derive D from B and C . Print the size of each class object, initialize 
+dada member using parameterized constructor. 
+5. Design a example to illustrate object slicing.( one base and one derived class) 
+6. Implement a program to illustrate the use of virtual functions and pure virtual function. 
+7. Write a template class to represent a list and sort it using bubble sort for a list of integers, real 
+numbers and characters.
